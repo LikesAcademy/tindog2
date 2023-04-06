@@ -1,0 +1,77 @@
+body {
+  font-family: 'Montserrat', serif;
+}
+
+h1 {
+  font-family: "Montserrat", serif;
+  line-height: 1.5;
+  font-size: 4rem;
+  font-weight: bolder;
+  margin: 0 0 3rem 0;
+}
+
+.i:hover {
+  color: #ff4c68;
+}
+
+section {
+  padding: 0 0 -7rem 0;
+}
+
+.btn-d {
+  margin: 0 1rem 0 0;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.i {
+  margin: 0 0 2rem;
+  color: #ef8172;
+}
+
+.i-col {
+  text-align: center;
+}
+
+.i-p {
+  line-height: 1.5rem;
+  width: 13rem;
+  margin: 1rem auto;
+}
+
+.i-h3 {
+  font-weight: 700;
+}
+
+.iphone {
+  width: 60%;
+  transform: rotate(25deg);
+  margin: 2rem 0 0 10rem;
+}
+
+.navbar {
+  padding-bottom: 3rem;
+}
+
+.navbar-brand {
+  font-size: 3rem;
+  font-weight: bold;
+  font-family: 'Ubuntu';
+}
+
+.nav-link {
+  font-family: 'Montserrat';
+  font-size: 1.5rem;
+  margin: 1.5rem; 
+}
+
+#title {
+  background: #ff4c68;
+  color: white;
+}
+
+#features {
+  margin: 10rem;
+}
